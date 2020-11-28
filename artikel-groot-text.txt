@@ -1,0 +1,44 @@
+
+
+                          <!-- Verwijzing naar artikel Groot -->
+                          <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnCaptionBlock">
+                            <tbody>
+                              <tr>
+                                <td class="functieBlokContainer">
+                                  <table align="left" border="0" cellpadding="0" cellspacing="0" class="achtergrond1ekleur">
+                                    <tbody>
+                                      <tr>
+                                        <td class="mcnCaptionBottomImageContent" align="center" style="padding-left:0px;padding-right:0px;">
+                                          <img alt="{{alttekst}}" src="{{imageurl}}" width="582" style="max-width:582px;" class="mcnImage" mc:edit="losseafbeelding-{{volgnummer}}">
+                                        </td>
+                                      </tr>
+                                      <tr>
+                                        <td class="mcnTextContent mcnTextContent--alsBovenstuk" style="padding-right:32px;padding-left:32px;" width="582">
+                                          <h1 mc:edit="verwijzingnaarachtergrondkleurbasisbloktitel{{volgnummer}}"><a href="{{artikelurl}}" target="_blank">{{artikeltitel}}</a></h1>
+                                        </td>
+                                      </tr>
+                                      <tr>
+                                        <td class="mcnTextContent mcnTextContent--verwijzingNaarArtikel mcnTextcontent--alsMiddenStuk" style="font-size:16px !important;padding-right:32px;padding-left:32px;" width="582">
+                                          <span mc:edit="verwijzingnaarachtergrondkleurbasisbloktekst{{volgnummer}}">{{artikelinleiding}}</span>
+                                        </td>
+                                      </tr>
+                                      <tr>
+                                        <td align="center" class="mcnTextContent--mcnButtonBlockInner">
+                                          <table cellpadding="0" cellspacing="0" class="mcnButtonContentContainer achtergrondKleurBasisBlok">
+                                            <tbody>
+                                              <tr>
+                                                <td align="center" valign="middle" class="mcnButton mcnButtonContent--verwijzingArtikel" style="font-size:20px;font-family:Helvetica, Arial;font-weight:bold;line-height:100%;text-align:left;text-decoration:none;" mc:hideable mc:edit="uitgelichteartikelcta-{{volgnummer}}"><a href="{{artikelurl}}" target="_blank">
+                                                  Read more</a>
+                                                </td>
+                                              </tr>
+                                            </tbody>
+                                          </table>
+                                        </td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        

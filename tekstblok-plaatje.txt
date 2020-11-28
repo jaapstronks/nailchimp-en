@@ -1,0 +1,32 @@
+
+<!-- Titel met Tekst en CTA-button -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+    <tr>
+      <td class="functieBlokContainer">
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="achtergrondKleurBasisBlok">
+          <tbody>
+            <tr>
+                                        <td class="mcnCaptionBottomImageContent" align="center" style="padding-left:0px;padding-right:0px;">
+                                          <img alt="{{alttekst}}" src="{{imageurl}}" width="582" style="max-width:582px;" class="mcnImage" mc:edit="losseafbeelding-{{volgnummer}}">
+                                        </td>
+                                      </tr>
+            <tr>
+              <td class="mcnTextContent mcnTextcontent--alsMiddenStuk" style="padding-right:32px;padding-left:32px;font-size:16px !important;" width="582">
+                <span  mc:edit="titelmettekstenctatekst-{{volgnummer}}">{{artikelinleiding}}</span>
+              </td>
+            </tr>
+<!-- optional button
+            <tr>
+              <td align="center" class="mcnTextContent--mcnButtonBlockInner">
+                <table border="0" cellpadding="0" cellspacing="0" class="mcnButtonContentContainer">
+                </table>
+              </td>
+            </tr>
+//-->
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>

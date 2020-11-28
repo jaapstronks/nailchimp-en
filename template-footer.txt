@@ -1,0 +1,323 @@
+</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <!-- tekstblok met aansporing tot delen  -->
+                <tr>
+                  <td mc:hideable>
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width:100%;">
+                      <tbody class="mcnTextBlockOuter">
+                        <tr>
+                          <td valign="top" class="mcnTextBlockInner" style="padding-top:0px;padding-bottom:0px;">
+                            <!--[if mso]>
+                            <table align="center" border="0" cellspacing="0" cellpadding="0" width="582" style="width:566px;">
+                              <tr>
+                                <![endif]-->
+                            <!--[if mso]>
+                            <td valign="top" width="582" style="width:582px;">
+                              <![endif]-->
+                            <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width:100%;min-width:100%;" width="100%" class="mcnTextContentContainer">
+                              <tbody>
+                                <tr>
+                                  <td align="center" valign="top" class="mcnTextContent" style="padding-top:18px;padding-right:18px;padding-bottom:0px;padding-left:18px;text-align:center;" mc:edit="deelaansporing2">
+                                 
+                                    <span style="font-size:18px!important;text-align:center;margin-bottom:0;font-family:Open Sans, Helvetica, Arial;color:#182575!important;">Share this email:</span>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <!--[if mso]>
+                          </td>
+                          <![endif]-->
+                            <!--[if mso]>
+                          </tr>
+                        </table>
+                        <![endif]-->
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <!-- einde van aansporing tot delen  -->
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowBlock" style="min-width:100%;">
+                      <tbody class="mcnFollowBlockOuter">
+                        <tr>
+                          <td align="center" style="padding:9px;" class="mcnFollowBlockInner">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowContentContainer" style="min-width:100%;">
+                              <tbody>
+                                <tr>
+                                  <td align="center" style="padding-left:9px;padding-right:9px;">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width:100%;" class="mcnFollowContent">
+                                      <tbody>
+                                        <tr>
+                                          <td align="center" style="padding-top:9px;padding-right:9px;padding-left:9px;">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0">
+                                              <tbody>
+                                                <tr>
+                                                  <td align="center">
+                                                    <!--[if mso]>
+                                                    <table align="center" border="0" cellspacing="0" cellpadding="0">
+                                                      <tr>
+                                                        <![endif]-->
+                                                    <!--[if mso]>
+                                                    <td align="center">
+                                                      <![endif]-->
+                                                    <table class="followButton" align="center" border="0" cellpadding="0" cellspacing="0" style="display:inline;">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td style="padding-right:2px;padding-left:2px;padding-bottom:9px;" class="mcnFollowContentItemContainer">
+                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowContentItem">
+                                                              <tbody>
+                                                                <tr>
+                                                                  <td align="center" valign="middle">
+                                                                    <a href="https://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*" target="_blank"><img src="https://gallery.mailchimp.com/6318a0e1cb4a68aa88926b08d/images/b1d6715e-6680-40a7-95da-49f54980b31a.png" style="display:block;" height="42" width="131" title="Delen op Facebook" alt="Share on Facebook"></a>
+                                                                  </td>
+                                                                </tr>
+                                                              </tbody>
+                                                            </table>
+                                                          </td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                    <!--[if mso]>
+                                                  </td>
+                                                  <![endif]-->
+                                                    <!--[if mso]>
+                                                    <td align="center">
+                                                      <![endif]-->
+                                                    <table class="followButton" align="center" border="0" cellpadding="0" cellspacing="0" style="display:inline;">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td style="padding-right:2px;padding-left:2px;padding-bottom:9px;" class="mcnFollowContentItemContainer">
+                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowContentItem">
+                                                              <tbody>
+                                                                <tr>
+                                                                  <td align="center" valign="middle">
+                                                                    <a href="https://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*:%20*|URL:ARCHIVE_LINK_SHORT|*" target="_blank"><img src="https://gallery.mailchimp.com/6318a0e1cb4a68aa88926b08d/images/ea2847eb-a6b4-43b2-89fc-c29e95147bf4.png" style="display:block;" height="42" width="131" alt="Share on Twitter"></a>
+                                                                  </td>
+                                                                </tr>
+                                                              </tbody>
+                                                            </table>
+                                                          </td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                    <!--[if mso]>
+                                                  </td>
+                                                  <![endif]-->
+                                                    <!--[if mso]>
+                                                    <td align="center">
+                                                      <![endif]-->
+                                                    <table class="followButton" align="center" border="0" cellpadding="0" cellspacing="0" style="display:inline;">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td style="padding-right:2px;padding-left:2px;padding-bottom:9px;" class="mcnFollowContentItemContainer">
+                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowContentItem">
+                                                              <tbody>
+                                                                <tr>
+                                                                  <td align="center" valign="middle">
+                                                                    <a href="*|FORWARD|*" target="_blank"><img src="https://gallery.mailchimp.com/6318a0e1cb4a68aa88926b08d/images/8048d779-d6f6-4d07-81c0-1a47b5d5409d.png" style="display:block;" height="42" width="131" alt="Delen via E-mail"></a>
+                                                                  </td>
+                                                                </tr>
+                                                              </tbody>
+                                                            </table>
+                                                          </td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td mc:hideable>
+                    <!-- tekstblok met aansporing tot delen  -->
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width:100%;">
+                      <tbody class="mcnTextBlockOuter">
+                        <tr>
+                          <td valign="top" class="mcnTextBlockInner" style="padding-top:0px;padding-bottom:0px;">
+                            <!--[if mso]>
+                            <table align="center" border="0" cellspacing="0" cellpadding="0" width="582" style="width:566px;">
+                              <tr>
+                                <![endif]-->
+                            <!--[if mso]>
+                            <td valign="top" width="582" style="width:582px;">
+                              <![endif]-->
+                            <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width:100%;min-width:100%;" width="100%" class="mcnTextContentContainer">
+                              <tbody>
+                                <tr>
+                                  <td align="center" valign="top" class="mcnTextContent" style="font-size:20px !important;padding-top:18px;padding-right:18px;padding-bottom:0px !important;padding-left:18px;text-align:center;" mc:edit="deelaansporing">
+
+                                    <span class="nederlands" style="font-size:18px!important;text-align:center;margin-bottom:0;font-family:Open Sans, Helvetica, Arial;color:#182575!important;">Follow us on social media:</span>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <!--[if mso]>
+                          </td>
+                          <![endif]-->
+                            <!--[if mso]>
+                          </tr>
+                        </table>
+                        <![endif]-->
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <!-- einde van aansporing tot delen  -->
+                    <!--[if gte mso 9]>
+                  </td>
+                </tr>
+              </table>
+              <![endif]-->
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowBlock" style="min-width:100%;">
+                      <tbody class="mcnFollowBlockOuter">
+                        <tr>
+                          <td align="center" valign="top" style="padding:9px;" class="mcnFollowBlockInner">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowContentContainer" style="min-width:100%;">
+                              <tbody>
+                                <tr>
+                                  <td align="center" style="padding-left:9px;padding-right:9px;">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width:100%;" class="mcnFollowContent">
+                                      <tbody>
+                                        <tr>
+                                          <td align="center" valign="top" style="padding-top:9px;padding-right:9px;padding-left:9px;">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0">
+                                              <tbody>
+                                                <tr>
+                                                  <td align="center" valign="top">
+                                                    <!--[if mso]>
+                                                    <table align="center" border="0" cellspacing="0" cellpadding="0">
+                                                      <tr>
+                                                        <![endif]-->
+                                                    <!--[if mso]>
+                                                    <td align="center" valign="top">
+                                                      <![endif]-->
+                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnFollowStacked" style="display:inline;">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td align="center" valign="top" class="mcnFollowIconContent" style="padding-right:5px;padding-left:5px;padding-bottom:9px;">
+                                                            <a href="{{facebookurl}}" target="_blank"><img style="border-radius:3px;display:block;" src="https://gallery.mailchimp.com/6318a0e1cb4a68aa88926b08d/images/836fec6a-6804-48a5-ac2d-781498eaf380.png" alt="Facebook" class="mcnFollowBlockIcon" width="60"></a>
+                                                          </td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                    <!--[if mso]>
+                                                  </td>
+                                                  <![endif]-->
+                                                    <!--[if mso]>
+                                                    <td align="center" valign="top">
+                                                      <![endif]-->
+                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnFollowStacked" style="display:inline;">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td align="center" valign="top" class="mcnFollowIconContent" style="padding-right:5px;padding-left:5px;padding-bottom:9px;">
+                                                            <a href="https://www.twitter.com/{{twitterer}}" target="_blank"><img src="https://gallery.mailchimp.com/6318a0e1cb4a68aa88926b08d/images/7bea47e1-f494-4e57-b04d-755058a13c63.png" alt="Twitter" class="mcnFollowBlockIcon" width="60" style="width:60px; max-width:60px; display:block;"></a>
+                                                          </td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                    <!--[if mso]>
+                                                  </td>
+                                                  <![endif]-->
+                                                    <!--[if mso]>
+                                                  </tr>
+                                                </table>
+                                                <![endif]-->
+                                                    <!--[if mso]>
+                                                  </td>
+                                                  <![endif]-->
+                                                    <!--[if mso]>
+                                                  </tr>
+                                                </table>
+                                                <![endif]-->
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <!-- // END BODY -->
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center" style="padding-bottom:0px;">
+                    <!-- BEGIN FOOTER // -->
+                    <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateFooter">
+                      <tr>
+                        <td class="footerContainer" style="padding-top:0px;padding-bottom:0px;">
+                          <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width:100%;">
+                            <tbody class="mcnTextBlockOuter">
+                              <tr>
+                                <td class="mcnTextBlockInner">
+                                  <!--[if mso]>
+                                  <table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+                                    <tr>
+                                      <![endif]-->
+                                  <!--[if mso]>
+                                  <td width="600" style="width:600px;">
+                                    <![endif]-->
+                                  <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width:100%;min-width:100%;" width="100%" class="mcnTextContentContainer">
+                                    <tbody>
+                                      <tr>
+                                        <td class="mcnTextContent browsertext" style="float:left;padding-top:24px;padding-right:18px;padding-bottom:24px;padding-left:18px;text-align:left;font-size:12px !important;">
+                                          <span class="nederlands achtergrondTekst">
+                                            *|IFNOT:ARCHIVE_PAGE|*
+                                            You are receiving updates at <a>*|EMAIL|*</a>.
+                                            <br><a href="*|UPDATE_PROFILE|*">Edit</a> your settings or <a href="*|UNSUB|*">unsubscribe</a>.
+                                            <br>Copyright © *|CURRENT_YEAR|* *|LIST:COMPANY|* .
+                                            <br>*|END:IF|*<br></span>
+                                           
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <!--[if mso]>
+                                    </td>
+                                    <![endif]-->
+                                      <!--[if mso]>
+                                    </tr>
+                                  </table>
+                                  <![endif]-->
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                        <!-- // END FOOTER -->
+                      </td>
+                    </tr>
+                  </table>
+                  <!-- // END TEMPLATE -->
+                </td>
+              </tr>
+            </table>
+          </center>
+        </body>
+</html>

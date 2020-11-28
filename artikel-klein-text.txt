@@ -1,0 +1,59 @@
+                            <!--Tekst met Klein Plaatje Links -->
+
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnCaptionBlock mcnCaptionBlock--blauw">
+                              <tbody>
+                                <tr>
+                                  <td class="mcnCaptionBlockInner" valign="top" style="padding-top:25px;padding-right:9px;padding-bottom:25px;padding-left:9px;">
+                                    
+                                    <table border="0" cellpadding="0" cellspacing="0" class="achtergrondKleurBasisBlok" width="100%">
+                                      <tbody>
+                                        <tr>
+                                          <td valign="top" class="mcnCaptionRightContentInner" style="padding:0 9px 0 0;">
+                                            
+                                            <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnCaptionRightImageContentContainer">
+                                              <tbody>
+                                                <tr>
+                                                  <td class="mcnCaptionRightImageContent" valign="top">
+                                                    <!--[if gte mso 9]>
+                                                    <a href="{{artikelurl}}" target="_blank">
+																										<img mc:edit="plaatje{{volgnummer}}"  src="{{imageurl}}" alt="alttekst" width="176" border="0" style="display:inline-block;" /></a>
+																										<div style="width:0px; height:0px; max-height:0; max-width:0; overflow:hidden; display:none; visibility:hidden; mso-hide:all;">
+                                                    <![endif]-->
+                                                    <a href="{{artikelurl}}" target="_blank">
+								
+																		<img mc:edit="plaatje2{{volgnummer}}"  src="{{imageurl}}" alt="{{alttekst}}" width="100%" border="0" style="max-width:176px;" class="mcnImage" mc:edit="mcncaptionblocksmallimgblauw-{{volgnummer}}"/>
+                                                  </a>
+                                                    <!--[if gte mso 9]>
+																										</div>
+																										<![endif]-->
+
+
+
+
+                                
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                            <table class="mcnCaptionRightTextContentContainer" align="right" border="0" cellpadding="0" cellspacing="0" width="375">
+                                              <tbody>
+                                                <tr>
+                                                  <td valign="top" class="mcnTextContent">
+                                                    <h2 class="mcnTextContent--title kleinkopje" style="padding-top:8px;text-align:left;line-height:125%;" mc:edit="mcncaptionblocksmalltitleblauw-{{volgnummer}}"><a href="{{artikelurl}}" target="_blank">{{artikeltitel}}</a>
+                                                  </h2>
+                                                  <span class="mcnTextContent" style="margin-bottom:0;margin-top:8px;padding-left:0 !important;padding-right:0 !important;padding-bottom:8px;" mc:edit="mcncaptionthing-{{volgnummer}}">{{artikelinleiding}}</span>
+                                                  <span mc:edit="mcnreadmore-{{volgnummer}}" mc:hideable  class="mcnTextContent readmore"><a href="{{artikelurl}}">Read more</a></strong></span>
+                                                 
+                                                </td>
+                                                
+                                              	</tr>
+                                            	</tbody>
+                                          	</table>
+                                        	</td>
+                                      	</tr>
+                                    	</tbody>
+                                  	</table>
+                                	</td>
+                              	</tr>
+                            	</tbody>
+                         	 </table>

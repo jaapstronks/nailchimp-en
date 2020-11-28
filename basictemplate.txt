@@ -1,0 +1,1789 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+  <head>
+    <!-- NAME: BASISTEMPLATEBUREAUBOLSTER -->
+    <!--[if gte mso 15]>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:AllowPNG />
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>*|MC:SUBJECT|*</title>
+    
+  <style type="text/css">
+		table{
+			border:none !important;
+			border-collapse:collapse !important;
+		}
+		li{
+			margin:0;
+			margin-bottom:0 !important;
+			padding-top:8px;
+			padding-bottom:8px;
+			font-size:16px !important;
+			font-family:Open Sans,Helvetica,Arial;
+		}
+		table{
+			border-collapse:collapse;
+		}
+		h1,h2,h3,h4,h5,h6{
+			display:block;
+			margin:0;
+			margin-top:9px !important;
+			padding:0;
+			color:#212121;
+		}
+		img,a img{
+			border:0;
+			height:auto;
+			outline:none;
+			text-decoration:none;
+		}
+		body,#bodyTable,#bodyCell{
+			height:100%;
+			margin:0;
+			padding:0;
+			width:100%;
+		}
+		.mcnPreviewText{
+			display:none !important;
+		}
+		#outlook a{
+			padding:0;
+			color:inherit;
+		}
+		img{
+			-ms-interpolation-mode:bicubic;
+		}
+		table{
+			mso-table-lspace:0;
+			mso-table-rspace:0;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		p,a,li,td,blockquote{
+			mso-line-height-rule:exactly;
+		}
+		a[href^=tel],a[href^=sms]{
+			color:inherit;
+			cursor:default;
+			text-decoration:none;
+		}
+		p,a,li,td,body,table,blockquote{
+			-ms-text-size-adjust:100%;
+			-webkit-text-size-adjust:100%;
+		}
+		.ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.ExternalClass span,.ExternalClass font{
+			line-height:100%;
+		}
+		a[x-apple-data-detectors]{
+			color:inherit !important;
+			text-decoration:none !important;
+			font-size:inherit !important;
+			font-family:inherit !important;
+			font-weight:inherit !important;
+			line-height:inherit !important;
+		}
+		a.mcnButton{
+			display:block;
+			text-decoration:none !important;
+			color:white !important;
+		}
+		.mcnImage,.mcnRetinaImage{
+			vertical-align:bottom;
+		}
+		.mcnImageContentContainer{
+			border-radius:3px;
+			min-width:584px;
+		}
+		.inleiding span{
+			font-size:18px !important;
+			line-height:150% !important;
+		}
+		.mcnTextContent span, .mcnTextContent p {
+			display:block;
+			word-break:break-word;
+			margin:0 0 10px 0;
+			-webkit-text-size-adjust:100%;
+			-ms-text-size-adjust:100%;
+			mso-table-lspace:0;
+			padding-top:0;
+			padding-bottom:0;
+			line-height: 150%;
+			font-size:16px;
+			font-family:Open Sans,Helvetica,Arial;
+		}
+		p.mcnTextContent{
+			font-size:16px;
+			font-family:Open Sans,Helvetica,Arial;
+			line-height:24px;
+		}
+		.mcnTextContent h3{
+			padding-bottom:9px;
+		}
+		.mcnTextcontent--alsMiddenStuk{
+			padding-top:9px;
+			padding-bottom:18px;
+		}
+		.mcnTextContent--losstaand{
+			padding-bottom:32px;
+			padding-top:32px;
+		}
+		.mcnTextContent--alsBovenstuk{
+			padding-bottom:18px;
+			padding-top:32px;
+		}
+		.mcnTextContent--alsOnderstuk{
+			padding-bottom:32px;
+			padding-top:9px;
+		}
+		.mcnTextContent--onderschrift{
+			padding-bottom:18px;
+			padding-top:4px;
+			padding-left:32px;
+			padding-right:32px;
+			color:#7A889A;
+			font-size:16px;
+			text-align:center !important;
+			font-style:italic;
+			font-family:Open Sans,Helvetica,Arial;
+		}
+		.mcnTextContent--onderschrift a{
+			color:#7A889A;
+			text-decoration:underline;
+			font-style:italic;
+			font-size:16px;
+		}
+		.mcnTextContent--kolom2{
+			padding-left:32px;
+			padding-right:32px;
+			text-align:center;
+		}
+		.mcnTextContent--mcnButtonBlockInner{
+			font-family:Helvetica,Open Sans,Arial;
+			padding-top:9px !important;
+			padding-bottom:32px !important;
+			padding-left:32px;
+			padding-right:32px;
+		}
+		.mcnTextContent--uitgelichteTekst a{
+			color:{{primarycolor}} !important;
+			text-decoration:none !important;
+		}
+		.mcnTextContent--uitgelichteTekst{
+			text-align:center;
+		}
+		.uitgelichteTekst a{
+			color:{{primarycolor}} !important;
+			text-decoration:none !important;
+		}
+		.uitgelichteTekst h1{
+			color:{{primarycolor}} !important;
+			margin:0 !important;
+			padding-bottom:9px;
+		}
+		.uitgelichteTekst h1 a{
+			color:{{primarycolor}} !important;
+			margin:0 !important;
+			padding-bottom:9px;
+			text-decoration:none !important;
+		}
+		.uitgelichteTekst span{
+			color:#7A889A !important;
+			text-align:center;
+		}
+		.mcnTextContent img{
+			height:auto !important;
+		}
+		.mcnDividerBlock{
+			table-layout:fixed !important;
+		}
+		.mcnCaptionRightContentOuter{
+			max-width:582px;
+			width:582px;
+		}
+	/*
+	@tab Page
+	@section background style
+	@tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
+	*/
+		body,#bodyTable{
+			/*@editable*/background-color:#F9FAFB;
+		}
+		.bodyContainer{
+			padding-bottom:9px;
+		}
+	/*
+	@tab Page
+	@section background style
+	@tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
+	*/
+		#bodyCell{
+			/*@editable*/border-top:0;
+		}
+	/*
+	@tab Page
+	@section heading 1
+	@tip Set the styling for all first-level headings in your emails. These should be the largest of your headings.
+	@style heading 1
+	*/
+		h1{
+			/*@tab Page
+@section heading 1
+@tip Set the styling for all first-level headings in your emails. These should be the largest of your headings.
+@style heading 1*/
+			/*@editable*/font-family:Open Sans,Helvetica,Arial !important;
+			/*@editable*/font-size:32px;
+			/*@editable*/font-style:normal !important;
+			/*@editable*/font-weight:bold !important;
+			/*@editable*/line-height:110% !important;
+			/*@editable*/padding-top:0 !important;
+			margin-top:0 !important;
+			color:{{primarycolor}};
+		}
+	/*
+	@tab Page
+	@section heading 2
+	@tip Set the styling for all second-level headings in your emails.
+	@style heading 2
+	*/
+		h2{
+			/*@tab Page
+@section heading 2
+@tip Set the styling for all second-level headings in your emails.
+@style heading 2*/font-family:Open Sans,Helvetica,Arial;
+			/*@editable*/font-size:26px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:100%;
+			/*@editable*/letter-spacing:normal;
+			
+			padding-top:0;
+		}
+		h2.kleinkopje,h2.kleinkopje a{
+			font-size:24px;
+			text-align:left;
+			color:{{primarycolor}};
+		}
+	/*
+	@tab Page
+	@section heading 3
+	@tip Set the styling for all third-level headings in your emails.
+	@style heading 3
+	*/
+		h3{
+			/*@tab Page
+@section heading 3
+@tip Set the styling for all third-level headings in your emails.
+@style heading 3*/font-family:Open Sans,Helvetica,Arial;
+			/*@editable*/font-size:24px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:100%;
+			/*@editable*/letter-spacing:normal;
+		
+		}
+	/*
+	@tab Page
+	@section heading 4
+	@tip Set the styling for all fourth-level headings in your emails. These should be the smallest of your headings.
+	@style heading 4
+	*/
+		h4{
+			/*@tab Page
+@section heading 4
+@tip Set the styling for all fourth-level headings in your emails. These should be the smallest of your headings.
+@style heading 4*/font-family:Open Sans,Helvetica,Arial;
+			/*@editable*/font-size:22px;
+			/*@editable*/font-style:italic !important;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:100%;
+			/*@editable*/letter-spacing:normal;
+			/*@editable*/text-align:left;
+			margin-top:0 !important;
+		}
+		.mcnImageContentUitgelicht{
+			background-color:{{primarycolor}};
+			margin:0 !important;
+			padding:0 !important;
+		}
+		.inschrijvingsBanner span{
+			background-color:#666666;
+			width:100%;
+		}
+		.inschrijvingsBanner{
+			font-family:Open Sans,Helvetica,Arial;
+			color:#F9FAFB;
+		}
+	/*
+	@tab Preheader
+	@section preheader style
+	@tip Set the background color and borders for your email's preheader area.
+	*/
+		#templatePreheader{
+			/*@editable*/background-color:#F9FAFB !important;
+			/*@editable*/border-top:0;
+		}
+	/*
+	@tab Preheader
+	@section preheader text
+	@tip Set the styling for your email's preheader text. Choose a size and color that is easy to read.
+	*/
+		.preheaderContainer .mcnTextContent,.preheaderContainer .mcnTextContent span{
+			/*@editable*/color:#666666;
+			font-family:Open Sans,Helvetica,Arial;
+			line-height:150%;
+			text-align:left;
+		}
+	/*
+	@tab Preheader
+	@section preheader link
+	@tip Set the styling for your email's header links. Choose a color that helps them stand out from your text.
+	*/
+		.preheaderContainer .mcnTextContent a{
+			/*@editable*/color:#666666 !important;
+			font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+		.mcnButtonContent a{
+			text-decoration:none !important;
+			color:black;
+		}
+		.mcnButtonContent{
+			font-size:22px !important;
+			font-weight:bold !important;
+		}
+		.mcnButtonContent--verwijzingArtikel{
+			color:{{primarycolor}} !important;
+			font-size:18px !important;
+			font-weight:bold !important;
+			padding:12px !important;
+		}
+		.mcnButtonContent--verwijzingArtikel a{
+			color:{{primarycolor}} !important;
+			font-size:18px !important;
+			font-weight:bold !important;
+			text-decoration:none !important;
+		}
+	/*
+	@tab Header
+	@section header text
+	@tip Set the styling for your email's header text. Choose a size and color that is easy to read.
+	*/
+		#templateHeader{
+			/*@tab Header
+@section header text
+@tip Set the styling for your email's header text. Choose a size and color that is easy to read.*/padding-top:9px;
+		}
+		.headerContainer{
+			width:600px;
+		}
+		.headerContainer .mcnTextContent,.headerContainer .mcnTextContent{
+			color:#666666;
+			font-family:Open Sans,Helvetica,Arial;
+			line-height:150%;
+			text-align:left;
+		}
+	/*
+	@tab Header
+	@section header link
+	@tip Set the styling for your email's header links. Choose a color that helps them stand out from your text.
+	*/
+		.headerContainer .mcnTextContent a{
+			/*@editable*/color:#666666 !important;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+	/*
+	@tab Body
+	@section body style
+	@tip Set the background color and borders for your email's body area.
+	*/
+		#templateBody{
+			/*@editable*/border-top:0;
+			padding-bottom:32px;
+		}
+		3C handlebard967af9343928ae73d1905efa8e3f456>3C hspace>3C hnewline>img{
+			border-radius:3px;
+		}
+		.mcnTextContent--captionTekst{
+			padding-bottom:9px !important;
+			padding-top:9px !important;
+			padding-left:18px !important;
+			padding-right:18px !important;
+		}
+	/*
+	@tab Body
+	@section body text
+	@tip Set the styling for your email's body text. Choose a size and color that is easy to read.
+	*/
+		.uitgelichteTekst{
+			/*@tab Body
+@section body text
+@tip Set the styling for your email's body text. Choose a size and color that is easy to read.*/color:{{primarycolor}} !important;
+		}
+		.functieBlokContainer{
+			padding-left:9px !important;
+			padding-right:9px !important;
+			padding-bottom:18px;
+		}
+		.achtergrondTekst{
+			color:#666666;
+			font-size:12px !important;
+		}
+		.achtergrondTekst a{
+			color:#666666 !important;
+			font-size:12px !important;
+			text-decoration:underline !important;
+		}
+		.logoContainer{
+			width:100%;
+		}
+		.logoContainer img{
+			max-width:280px !important;
+		}
+		.mcnTextContent span{
+			line-height:150%;
+			padding:0;
+		}
+		.mcnTextContent--categorienaam{
+			color:{{primarycolor}} !important;
+			padding-bottom:0 !important;
+			padding-top:0 !important;
+			padding-left:32px !important;
+			padding-right:32px !important;
+			font-family:Open Sans,Helvetica,Arial !important;
+			background-color:#FFFFFF;
+			text-align:left !important;
+			text-transform:uppercase;
+		}
+		.mcnTextContent--verwijzingNaarArtikel span{
+			line-height:150% !important;
+			font-size:16px !important;
+		
+		}
+		.achtergrondKleurBasisBlok{
+			background-color:#FFFFFF;
+			color:#212121;
+			border-radius:3px;
+		}
+		.achtergrondKleurBasisBlok span{
+			font-family:Open Sans,Helvetica,Arial;
+			line-height:150%;
+			text-align:left;
+			color:#212121;
+		}
+		.achtergrondKleurBasisBlok li{
+			font-family:Open Sans,Helvetica,Arial;
+			line-height:150%;
+			text-align:left;
+			color:#212121;
+		}
+		.achtergrondKleurBasisBlok a{
+			color:{{primarycolor}};
+			text-decoration:underline;
+		}
+		.achtergrondKleurBasisBlok h1 a{
+			text-decoration:none;
+		}
+		.achtergrondKleurBasisBlok .mcnButton a{
+			color:white;
+			text-decoration:none;
+		}
+		.achtergrondKleurBasisBlok h2 a{
+			text-decoration:none;
+		}
+		.achtergrondKleurBasisBlok h3 a{
+			text-decoration:underline;
+		}
+		.achtergrond1ekleur{
+			color:white;
+			background-color:{{primarycolor}};
+			border-radius:3px;
+		}
+		.achtergrond1ekleur{
+			font-family:Open Sans,Helvetica,Arial;
+			line-height:150%;
+			text-align:center;
+		}
+		.achtergrond1ekleur h1{
+			line-height:110%;
+			color:white;
+			text-align:center;
+		}
+		.achtergrond1ekleur h1 a{
+			line-height:100%;
+			color:white;
+			text-align:center;
+			text-decoration:none !important;
+		}
+		.achtergrond1ekleur h2{
+			font-family:Open Sans,Helvetica,Arial;
+			line-height:100%;
+			color:white;
+		}
+		.achtergrond1ekleur h3{
+			font-family:Open Sans,Helvetica,Arial;
+			line-height:100%;
+			text-align:left;
+			color:white !important;
+		}
+		.achtergrond1ekleur .mcnButton a{
+			color:white;
+			text-decoration:none;
+		}
+		.mcnButtonWhite .mcnButton, .mcnButtonWhite .mcnButton a{
+			color:#212121 !important;
+			text-decoration:none;
+		}
+
+		.achtergrond1ekleur a{
+			color:#fff;
+			text-decoration:underline;
+		}
+		.mcnButtonContentContainer{
+			color:white;
+		}
+		.inlinerow{
+			display:inline !important;
+		}
+		.uitgelichtequote--tekst{
+			font-size:16px !important;
+			color:white;
+			line-height:150%;
+			text-align:center !important;
+			font-family:Courier !important;
+		}
+		.browsertext{
+			font-family:Open Sans,Helvetica,Arial;
+			font-size:12px;
+		}
+		.achtergrondKleurBasisBlok span ul,.achtergrondKleurBasisBlok span ol{
+			margin-top:1em;
+		}
+	/*
+	@tab Body
+	@section body link
+	@tip Set the styling for your email's body links. Choose a color that helps them stand out from your text.
+	*/
+		.mcnCaptionBottomImageContent{
+			/*@tab Body
+@section body link
+@tip Set the styling for your email's body links. Choose a color that helps them stand out from your text.*/border-left:0 solid #E0E4E8;
+			border-right:0 solid #E0E4E8;
+		}
+	/*
+	@tab Columns
+	@section column style
+	@tip Set the background color and borders for your email's columns area.
+	*/
+		#templateColumns{
+			/*@editable*/background-color:#F9FAFB;
+			border-top:0;
+		}
+	/*
+	@tab Columns
+	@section left column text
+	@tip Set the styling for your email's left column text. Choose a size and color that is easy to read.
+	*/
+		.leftColumnContainer .mcnTextContent,.leftColumnContainer .mcnTextContent{
+			/*@editable*/color:#666666;
+			font-family:#Open Sans,Helvetica,Arial;
+			line-height:150%;
+			text-align:left;
+		}
+	/*
+	@tab Columns
+	@section left column link
+	@tip Set the styling for your email's left column links. Choose a color that helps them stand out from your text.
+	*/
+		.leftColumnContainer .mcnTextContent a{
+			/*@tab Columns
+@section left column link
+@tip Set the styling for your email's left column links. Choose a color that helps them stand out from your text.*/color:{{primarycolor}} !important;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		.elementinBlokEnkel{
+			padding-top:9px !important;
+			padding-bottom:9px !important;
+		}
+		.elementinBlokDubbel{
+			padding-top:18px;
+			padding-bottom:18px;
+		}
+	/*
+	@tab Columns
+	@section right column text
+	@tip Set the styling for your email's right column text. Choose a size and color that is easy to read.
+	*/
+		.rightColumnContainer .mcnTextContent,.rightColumnContainer .mcnTextContent{
+			/*@tab Columns
+@section right column text
+@tip Set the styling for your email's right column text. Choose a size and color that is easy to read.*/color:#666666;
+			font-family:Open Sans,Helvetica,Arial;
+			line-height:150%;
+			text-align:left;
+		}
+	/*
+	@tab Columns
+	@section right column link
+	@tip Set the styling for your email's right column links. Choose a color that helps them stand out from your text.
+	*/
+		.rightColumnContainer .mcnTextContent a{
+			/*@tab Columns
+@section right column link
+@tip Set the styling for your email's right column links. Choose a color that helps them stand out from your text.*/color:{{primarycolor}} !important;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+	/*
+	@tab Footer
+	@section footer style
+	@tip Set the background color and borders for your email's footer area.
+	*/
+		#templateFooter{
+			/*@tab Footer
+@section footer style
+@tip Set the background color and borders for your email's footer area.*/border-top:0;
+			border-bottom:0;
+		}
+		.mcnImageCardBlockInner{
+			padding-left:18px;
+			padding-right:18px;
+			padding-top:0;
+			padding-bottom:9px;
+		}
+		.mcnImageBlockInner{
+			padding-left:18px;
+			padding-right:18px;
+			padding-top:0;
+			padding-bottom:0;
+		}
+		.engels{
+			display:none !important;
+		}
+		.collapseOnMobile--small{
+			width:156px;
+			padding:9px;
+		}
+		.collapseOnMobile--large{
+			width:388px;
+			padding:9px;
+		}
+		.afbeeldingklein{
+			padding:18px;
+		}
+	@media only screen and (max-width: 480px){
+		.collapseOnMobile--small{
+			width:100% !important;
+			display:block !important;
+			padding:0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageKlein{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.collapseOnMobile--large{
+			width:100% !important;
+			display:block !important;
+			padding:0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.afbeeldingklein{
+			padding:0 !important;
+		}
+
+}	/*
+	@tab Footer
+	@section footer text
+	@tip Set the styling for your email's footer text. Choose a size and color that is easy to read.
+	*/
+		.footerContainer .mcnTextContent,.footerContainer .mcnTextContent{
+			/*@editable*/color:#666666;
+			font-family:Open Sans,Helvetica,Arial;
+			font-size:16px;
+			line-height:150%;
+			text-align:left;
+		}
+	/*
+	@tab Footer
+	@section footer link
+	@tip Set the styling for your email's footer links. Choose a color that helps them stand out from your text.
+	*/
+		.footerContainer .mcnTextContent a{
+			/*@editable*/color:#666666 !important;
+			font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+		.onderSchrift{
+			color:#666666 !important;
+		}
+	@media only screen and (max-width: 480px){
+		body,table,td,p,a,li,blockquote{
+			-webkit-text-size-adjust:none !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body{
+			width:100% !important;
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateContainer,#templatePreheader,#templateHeader,#templateColumns,#templateBody,#templateFooter{
+			max-width:480px !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.columnsContainer{
+			display:block !important;
+			padding-bottom:18px !important;
+			padding-left:0 !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnRetinaImage{
+			max-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImage{
+			height:auto !important;
+			width:100% !important;
+			max-width:584px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.logoContainer{
+			height:auto !important;
+			width:100% !important;
+			max-width:584px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.logoContainer img{
+			height:auto !important;
+			max-width:262px !important;
+			width:262px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnTextContent--verwijzingNaarArtikel{
+			line-height:150% !important;
+			font-size:16px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateColumns{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.templateColumnContainer{
+			display:block !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.columnImage{
+			height:auto !important;
+			max-width:480px !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.leftColumnContent{
+			font-size:16px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.rightColumnContent{
+			font-size:16px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCartContainer,.mcnCaptionTopContent,.mcnRecContentContainer,.mcnTextContentContainer,.mcnBoxedTextContentContainer,.mcnImageGroupContentContainer,.mcnCaptionLeftTextContentContainer,.mcnCaptionRightTextContentContainer,.mcnCaptionLeftImageContentContainer,.mcnCaptionRightImageContentContainer,.mcnImageCardLeftTextContentContainer,.mcnImageCardRightTextContentContainer,.mcnImageCardLeftImageContentContainer,.mcnImageCardRightImageContentContainer{
+			max-width:100% !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnBoxedTextContentContainer{
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageSigneeBottomImageContent{
+			padding-bottom:0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupContent{
+			padding:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageContentContainer{
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCaptionLeftContentOuter .mcnTextContent,.mcnCaptionRightContentOuter .mcnTextContent{
+			padding-top:9px !important;
+			max-width:238px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCaptionRightContentOuter{
+			max-width:238px !important;
+			width:238px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardTopImageContent,:last-child .mcnCaptionBottomImageContent,.mcnCaptionTopContent:last-child .mcnTextContent{
+			padding-top:0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardBottomImageContent{
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnTextContent--onderschrift{
+			padding-bottom:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockInner{
+			padding-top:0 !important;
+			padding-bottom:0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockOuter{
+			padding-top:9px !important;
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnTextContent,.mcnBoxedTextContentColumn{
+			padding-right:18px;
+			padding-left:18px;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardLeftImageContent,.mcnImageCardRightImageContent{
+			padding-right:18px !important;
+			padding-bottom:0 !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcpreview-image-uploader{
+			display:none !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section heading 1
+	@tip Make the first-level headings larger in size for better readability on small screens.
+	*/
+		h1{
+			/*@editable*/font-size:26px !important;
+			/*@editable*/line-height:100% !important;
+	
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section heading 2
+	@tip Make the second-level headings larger in size for better readability on small screens.
+	*/
+		h2{
+			/*@editable*/font-size:26px !important;
+			/*@editable*/line-height:100% !important;
+		
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section heading 3
+	@tip Make the third-level headings larger in size for better readability on small screens.
+	*/
+		h3{
+			/*@editable*/font-size:24px !important;
+			/*@editable*/line-height:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section heading 4
+	@tip Make the fourth-level headings larger in size for better readability on small screens.
+	*/
+		h4{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Boxed Text
+	@tip Make the boxed text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+	*/
+		.mcnBoxedTextContentContainer .mcnTextContent,.mcnBoxedTextContentContainer .mcnTextContent{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnTextContent,.mcnTextContent{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Preheader Visibility
+	@tip Set the visibility of the email's preheader on small screens. You can hide it to save space.
+	*/
+		.mcnButtonBlock{
+			/*@tab Mobile Styles
+@section Preheader Visibility
+@tip Set the visibility of the email's preheader on small screens. You can hide it to save space.*/max-width:238px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templatePreheader{
+			/*@editable*/display:block !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnTextContent{
+			word-break:break-word;
+			padding-top:9px;
+			padding-bottom:9px;
+			padding-left:18px !important;
+			padding-right:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnTextContent--losstaand{
+			padding-bottom:18px !important;
+			plpadding-top:18px !important;
+			padding-left:18px !important;
+			padding-right:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnTextContent--alsBovenstuk{
+			padding-bottom:4.5px !important;
+			padding-top:18px !important;
+			padding-left:18px !important;
+			padding-right:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnTextContent--alsOnderstuk{
+			padding-bottom:18px !important;
+			padding-top:4.5px !important;
+			padding-left:18px !important;
+			padding-right:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnButtonBlockInner{
+			padding-bottom:18px !important;
+			padding-top:4.5px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Preheader Text
+	@tip Make the preheader text larger in size for better readability on small screens.
+	*/
+		.preheaderContainer .mcnTextContent,.preheaderContainer .mcnTextContent{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.ondertekenaarsAfbeelding{
+			max-width:150px !important;
+			text-align:center !important;
+			margin:auto !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.ondertekenaarstekst{
+			text-align:center !important;
+			margin:auto !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Header Text
+	@tip Make the header text larger in size for better readability on small screens.
+	*/
+		.headerContainer .mcnTextContent,.headerContainer .mcnTextContent{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.headerContainer{
+			width:100%;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Body Text
+	@tip Make the body text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+	*/
+		.bodyContainer .mcnTextContent{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.browsertext{
+			display:block !important;
+			text-align:left !important;
+			float:left !important;
+			padding-left:9px;
+			padding-right:9px;
+			width:282px !important;
+			font-size:12px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.followButton{
+			display:block !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Left Column Text
+	@tip Make the left column text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+	*/
+		.leftColumnContainer .mcnTextContent,.leftColumnContainer .mcnTextContent{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Right Column Text
+	@tip Make the right column text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+	*/
+		.rightColumnContainer .mcnTextContent,.rightColumnContainer .mcnTextContent{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section footer text
+	@tip Make the body content text larger in size for better readability on small screens.
+	*/
+		.footerContainer .mcnTextContent,.footerContainer .mcnTextContent{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}</style></head>
+  <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+    <!--*|IF:MC_PREVIEW_TEXT|*-->
+    <!--[if !gte mso 9]><!--><span class="mcnPreviewText" style="display:none; max-height:0px; max-width:0px; opacity:0; overflow:hidden; visibility:hidden; mso-hide:all;">*|MC_PREVIEW_TEXT|*</span>
+    <!--<![endif]-->
+    <!--*|END:IF|*-->
+    <center>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" id="bodyTable" style="height:100%;">
+        <tr>
+          <td align="center" id="bodyCell">
+            <!-- BEGIN TEMPLATE // -->
+            <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer">
+              <tr>
+                <td align="center">
+                  <!-- BEGIN PREHEADER // -->
+                  <table border="0" cellpadding="0" cellspacing="0" width="600" id="templatePreheader">
+                    *|IFNOT:ARCHIVE_PAGE|*
+                    <tr>
+                      <td class="preheaderContainer" style="padding-top:0px;padding-bottom:0px;">
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width:100%;">
+                          <tbody class="mcnTextBlockOuter">
+                            <tr>
+                              <td class="mcnTextBlockInner functieBlokContainer" style="padding-top:9px;">
+                                <!--[if mso]>
+                                <table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+                                  <tr>
+                                    <![endif]-->
+                                <!--[if mso]>
+                                <td width="600" style="width:600px;">
+                                  <![endif]-->
+                                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width:100%;min-width:100%;" width="100%" class="mcnTextContentContainer">
+                                  <tbody>
+                                    <tr>
+                                      <td style="font-size:16px !important;padding-left:0px !important;padding-right:0px !important;padding-bottom:9px !important;padding-top:9px !important;">
+                                        <span class="browsertext" style="font-weight:normal;text-align:left!important;display:inline;color:#666666;float:left;width:50%">*|MC_PREVIEW_TEXT|*</span>
+                                        <span class="browsertext" style="font-weight:normal;text-align:right;display:inline;color:#666666;float:right;width:50%">
+                                          <a href="*|ARCHIVE|*" target="_blank" style="color:#666666 !important;padding:0;">Open this email in your browser.</a>
+                                        </span>
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                <!--[if mso]>
+                              </td>
+                              <![endif]-->
+                                <!--[if mso]>
+                              </tr>
+                            </table>
+                            <![endif]-->
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                    *|END:IF|*
+                  </table>
+                  <!-- // END PREHEADER -->
+                </td>
+              </tr>
+              <tr>
+                <td id="templateHeader" align="center">
+                  <!-- BEGIN HEADER // -->
+                  *|IF:ARCHIVE_PAGE|*
+                  <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnBoxedTextBlock" style="min-width:100%;width:100%;">
+                    <!--[if gte mso 9]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="582">
+                      <![endif]-->
+                    <tbody class="mcnBoxedTextBlockOuter">
+                      <tr>
+                        <td class="mcnBoxedTextBlockInner">
+                          <!--[if gte mso 9]>
+                          <td align="center">
+                            <![endif]-->
+                          <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width:100%;" class="mcnBoxedTextContentContainer">
+                            <tbody>
+                              <tr>
+                                <td class="functieBlokContainer">
+                                  <table align="center" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer achtergrond1ekleur" width="100%" style="min-width:100% !important;">
+                                    <tbody>
+                                      <tr>
+                                        <td class="mcnTextContent elementinBlokDubbel" style="font-size:16px !important;font-weight:normal;text-align:center;padding-right:18px;padding-left:18px;">
+                                          <span>
+                                            Would you like to receive updates like this one? <a href="*|LIST:SUBSCRIBE|*">Sign up here</a>.
+                                          </span>
+                                        </td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          <!--[if gte mso 9]>
+                        </td>
+                        <![endif]-->
+                          <!--[if gte mso 9]>
+                        </tr>
+                      </table>
+                      <![endif]-->
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  *|END:IF|*
+                  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td class="headerContainer">
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width:100%;">
+                          <tbody class="mcnTextBlockOuter">
+                            <tr>
+                              <td class="mcnTextBlockInner" style="padding-top:0px;">
+                                <!--[if mso]>
+                                <table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+                                  <tr>
+                                    <![endif]-->
+                                <!--[if mso]>
+                                <td width="600" style="width:600px;">
+                                  <![endif]-->
+                                <!-- logostukje  -->
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageBlock" style="min-width:100%;">
+                                  <tbody class="mcnImageBlockOuter">
+                                    <tr>
+                                      <td valign="top" class="functieBlokContainer">
+                                        <table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer" style="background-color:#FFFFFF;">
+                                          <tbody>
+                                            <tr>
+                                              <td class="mcnImageContent logoContainer" valign="top" style="padding-left:0px;padding-top:0;padding-bottom:0;text-align:center;">
+                                                <img alt="{{clientName}}" src="{{logourl}}" style="padding-bottom:18px; padding-top:18px; display: inline !important; max-width:280px; vertical-align: bottom;">
+                                              </td>
+                                            </tr>
+                                          </tbody>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                <!--[if mso]>
+                              </td>
+                              <![endif]-->
+                                <!--[if mso]>
+                              </tr>
+                            </table>
+                            <![endif]-->
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                  <!-- // END HEADER -->
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <!-- BEGIN BODY // -->
+                  <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateBody">
+                    <tr>
+                      <td class="bodyContainer">
+
+<!-- Aanhef met tekst en CTA-button -->
+<table mc:repeatable="Aanhef" mc:variant="Inleidend Tekstblok met Aanhef en CTA-button" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td class="functieBlokContainer">
+				<table align="left" border="0" cellpadding="0" cellspacing="0" class="achtergrondKleurBasisBlok">
+					<tbody>
+						<tr>
+							<td class="mcnTextContent mcnTextContent--alsBovenstuk inleiding" style="font-size:20px !important;padding-right:32px;padding-left:32px;" width="582">
+							<span mc:edit="aanhef0">*|IF:FNAME|*Beste *|TITLE:FNAME|*,*|ELSE:|*Beste lezer,*|END:IF|*</span>
+							
+							</td>
+						</tr>
+<!-- optional read more button
+						
+						<tr>
+							<td align="center" class="mcnTextContent--mcnButtonBlockInner">
+								<table border="0" cellpadding="0" cellspacing="0" class="mcnButtonContentContainer">
+									<tbody>
+										<tr>
+											<td align="center" valign="middle" class="mcnButtonContent achtergrond1ekleur mcnButton" style="font-weight:bold;letter-spacing:normal;line-height:100%;text-align:left;text-decoration:none;font-size:22px !important;font-family:Arial;padding:18px;" mc:edit="ctaklein1c">
+												Read more
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+//-->
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<!-- Titel met Tekst en CTA-button -->
+<table mc:repeatable="Block1" mc:variant="Tekstblok" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+    <tr>
+      <td class="functieBlokContainer">
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="achtergrondKleurBasisBlok">
+          <tbody>
+               <tr>
+                                        <td class="mcnTextContent mcnTextContent--alsBovenstuk" style="padding-right:32px;padding-left:32px;" width="582">
+                                          <h1 mc:edit="titeldinges"><a href="https://example.com" target="_blank">De titel</a></h1>
+                                        </td>
+                                      </tr>
+            <tr>
+              <td class="mcnTextContent mcnTextcontent--alsMiddenStuk" style="padding-right:32px;padding-left:32px;font-size:16px !important;" width="582">
+                <span  mc:edit="deinleiding">hier komt de inleiding</span>
+              </td>
+            </tr>
+
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+                          <!-- Verwijzing naar artikel Groot -->
+                          <table mc:repeatable="Block1" mc:variant="verwijzing artikel groot"  border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnCaptionBlock">
+                            <tbody>
+                              <tr>
+                                <td class="functieBlokContainer">
+                                  <table align="left" border="0" cellpadding="0" cellspacing="0" class="achtergrond1ekleur">
+                                    <tbody>
+                                      <tr>
+                                        <td class="mcnCaptionBottomImageContent" align="center" style="padding-left:0px;padding-right:0px;">
+                                          <img a src="https://gallery.mailchimp.com/6318a0e1cb4a68aa88926b08d/images/1bb67a9c-8d54-4544-bc39-291a3897e9a8.png" width="582" style="max-width:582px;" class="mcnImage" mc:edit="losseafbeeldingwijzig">
+                                        </td>
+                                      </tr>
+                                      <tr>
+                                        <td class="mcnTextContent mcnTextContent--alsBovenstuk" style="padding-right:32px;padding-left:32px;" width="582">
+                                          <h1 mc:edit="dinges213"><a href="https://example.com" target="_blank">De kop van het artikel</a></h1>
+                                        </td>
+                                      </tr>
+                                      <tr>
+                                        <td class="mcnTextContent mcnTextContent--verwijzingNaarArtikel mcnTextcontent--alsMiddenStuk" style="font-size:16px !important;padding-right:32px;padding-left:32px;" width="582">
+                                          <span mc:edit="verwijzinginleiding">Hier komt de inleiding</span>
+                                        </td>
+                                      </tr>
+                                      <tr>
+                                        <td align="center" class="mcnTextContent--mcnButtonBlockInner">
+                                          <table cellpadding="0" cellspacing="0" class="mcnButtonContentContainer achtergrondKleurBasisBlok">
+                                            <tbody>
+                                              <tr>
+                                                <td align="center" valign="middle" class="mcnButton mcnButtonContent--verwijzingArtikel" style="font-size:20px;font-family:Helvetica, Arial;font-weight:bold;line-height:100%;text-align:left;text-decoration:none;" mc:edit="uitgelichteartikelcta-{{volgnummer}}"><a href="{{artikelurl}}" target="_blank">
+                                                  Read more</a>
+                                                </td>
+                                              </tr>
+                                            </tbody>
+                                          </table>
+                                        </td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                                                    <!--Tekst met Klein Plaatje Links -->
+
+                            <table mc:repeatable="Block1" mc:variant="vewijzing artikel klein"  border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnCaptionBlock mcnCaptionBlock--blauw">
+                              <tbody>
+                                <tr>
+                                  <td class="mcnCaptionBlockInner" valign="top" style="padding-top:25px;padding-right:9px;padding-bottom:25px;padding-left:9px;">
+                                    
+                                    <table border="0" cellpadding="0" cellspacing="0" class="achtergrondKleurBasisBlok" width="100%">
+                                      <tbody>
+                                        <tr>
+                                          <td valign="top" class="mcnCaptionRightContentInner" style="padding:0 9px 0 0;">
+                                            
+                                            <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnCaptionRightImageContentContainer">
+                                              <tbody>
+                                                <tr>
+                                                  <td class="mcnCaptionRightImageContent" valign="top">
+                                                    <!--[if gte mso 9]>
+                                                    <a href="artikelurl" target="_blank">
+																										<img src="https://gallery.mailchimp.com/6318a0e1cb4a68aa88926b08d/images/9ceb0c42-3fec-42a3-b827-05f04f76f4bd.jpg" alt="alttekst" width="176" border="0" style="display:inline-block;" /></a>
+																										<div style="width:0px; height:0px; max-height:0; max-width:0; overflow:hidden; display:none; visibility:hidden; mso-hide:all;">
+                                                    <![endif]-->
+                                                    <a href="https://example.com" target="_blank">
+								
+																		<img src="https://gallery.mailchimp.com/6318a0e1cb4a68aa88926b08d/images/9ceb0c42-3fec-42a3-b827-05f04f76f4bd.jpg" width="100%" border="0" style="max-width:176px;" class="mcnImage" mc:edit="safdfadfasd"/>
+                                                  </a>
+                                                    <!--[if gte mso 9]>
+																										</div>
+																										<![endif]-->
+
+
+
+
+                                
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                            <table class="mcnCaptionRightTextContentContainer" align="right" border="0" cellpadding="0" cellspacing="0" width="375">
+                                              <tbody>
+                                                <tr>
+                                                  <td valign="top" class="mcnTextContent">
+                                                    <h2 class="mcnTextContent--title kleinkopje" style="padding-top:8px;text-align:left;line-height:125%;" mc:edit="madsfsadfas"><a href="{{artikelurl}}" target="_blank">Dit wordt de kop</a>
+                                                  </h2>
+                                                  <p class="mcnTextContent" style="margin-bottom:0;margin-top:8px;padding-left:0 !important;padding-right:0 !important;padding-bottom:8px;" mc:edit="sfsdfasd">Dit is de inleiding van het artikel.
+                                                  </p>
+                                                </td>
+                                                
+                                              	</tr>
+                                            	</tbody>
+                                          	</table>
+                                        	</td>
+                                      	</tr>
+                                    	</tbody>
+                                  	</table>
+                                	</td>
+                              	</tr>
+                            	</tbody>
+                         	 </table>
+														                  <!-- Losse Afbeelding-->
+                            <table mc:repeatable="Block1" mc:variant="afbeelding"  border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnCaptionBlock">
+                              <tbody>
+                                <tr>
+                                  <td class="functieBlokContainer" style="padding-top:0 !important;padding-bottom:0 !important;">
+                                    <table class="border" align="left" border="0" cellpadding="0" cellspacing="0">
+                                      <tbody>
+                                        <tr>
+                                          <td class="mcnCaptionBottomImageContent" align="center" style="padding-left:0px;padding-right:0px;">
+                                            <img mc:edit="losseafbeeldingdinges" src="https://gallery.mailchimp.com/6318a0e1cb4a68aa88926b08d/images/1bb67a9c-8d54-4544-bc39-291a3897e9a8.png" width="582" style="max-width:582px;" class="mcnImage" >
+                                          </td>
+                                        </tr>
+                                       
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+														</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <!-- tekstblok met aansporing tot delen  -->
+                <tr>
+                  <td mc:hideable>
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width:100%;">
+                      <tbody class="mcnTextBlockOuter">
+                        <tr>
+                          <td valign="top" class="mcnTextBlockInner" style="padding-top:0px;padding-bottom:0px;">
+                            <!--[if mso]>
+                            <table align="center" border="0" cellspacing="0" cellpadding="0" width="582" style="width:566px;">
+                              <tr>
+                                <![endif]-->
+                            <!--[if mso]>
+                            <td valign="top" width="582" style="width:582px;">
+                              <![endif]-->
+                            <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width:100%;min-width:100%;" width="100%" class="mcnTextContentContainer">
+                              <tbody>
+                                <tr>
+                                  <td align="center" valign="top" class="mcnTextContent" style="padding-top:18px;padding-right:18px;padding-bottom:0px;padding-left:18px;text-align:center;" mc:edit="deelaansporing2">
+                                 
+                                    <span style="font-size:18px!important;text-align:center;margin-bottom:0;font-family:Open Sans, Helvetica, Arial;color:#182575!important;">Deel deze e-mail:</span>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <!--[if mso]>
+                          </td>
+                          <![endif]-->
+                            <!--[if mso]>
+                          </tr>
+                        </table>
+                        <![endif]-->
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <!-- einde van aansporing tot delen  -->
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowBlock" style="min-width:100%;">
+                      <tbody class="mcnFollowBlockOuter">
+                        <tr>
+                          <td align="center" style="padding:9px;" class="mcnFollowBlockInner">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowContentContainer" style="min-width:100%;">
+                              <tbody>
+                                <tr>
+                                  <td align="center" style="padding-left:9px;padding-right:9px;">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width:100%;" class="mcnFollowContent">
+                                      <tbody>
+                                        <tr>
+                                          <td align="center" style="padding-top:9px;padding-right:9px;padding-left:9px;">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0">
+                                              <tbody>
+                                                <tr>
+                                                  <td align="center">
+                                                    <!--[if mso]>
+                                                    <table align="center" border="0" cellspacing="0" cellpadding="0">
+                                                      <tr>
+                                                        <![endif]-->
+                                                    <!--[if mso]>
+                                                    <td align="center">
+                                                      <![endif]-->
+                                                    <table class="followButton" align="center" border="0" cellpadding="0" cellspacing="0" style="display:inline;">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td style="padding-right:2px;padding-left:2px;padding-bottom:9px;" class="mcnFollowContentItemContainer">
+                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowContentItem">
+                                                              <tbody>
+                                                                <tr>
+                                                                  <td align="center" valign="middle">
+                                                                    <a href="https://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*" target="_blank"><img src="https://gallery.mailchimp.com/6318a0e1cb4a68aa88926b08d/images/b1d6715e-6680-40a7-95da-49f54980b31a.png" style="display:block;" height="42" width="131" title="Delen op Facebook" alt="Deel op Facebook"></a>
+                                                                  </td>
+                                                                </tr>
+                                                              </tbody>
+                                                            </table>
+                                                          </td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                    <!--[if mso]>
+                                                  </td>
+                                                  <![endif]-->
+                                                    <!--[if mso]>
+                                                    <td align="center">
+                                                      <![endif]-->
+                                                    <table class="followButton" align="center" border="0" cellpadding="0" cellspacing="0" style="display:inline;">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td style="padding-right:2px;padding-left:2px;padding-bottom:9px;" class="mcnFollowContentItemContainer">
+                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowContentItem">
+                                                              <tbody>
+                                                                <tr>
+                                                                  <td align="center" valign="middle">
+                                                                    <a href="https://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*:%20*|URL:ARCHIVE_LINK_SHORT|*" target="_blank"><img src="https://gallery.mailchimp.com/6318a0e1cb4a68aa88926b08d/images/ea2847eb-a6b4-43b2-89fc-c29e95147bf4.png" style="display:block;" height="42" width="131" alt="Delen op Twitter"></a>
+                                                                  </td>
+                                                                </tr>
+                                                              </tbody>
+                                                            </table>
+                                                          </td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                    <!--[if mso]>
+                                                  </td>
+                                                  <![endif]-->
+                                                    <!--[if mso]>
+                                                    <td align="center">
+                                                      <![endif]-->
+                                                    <table class="followButton" align="center" border="0" cellpadding="0" cellspacing="0" style="display:inline;">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td style="padding-right:2px;padding-left:2px;padding-bottom:9px;" class="mcnFollowContentItemContainer">
+                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowContentItem">
+                                                              <tbody>
+                                                                <tr>
+                                                                  <td align="center" valign="middle">
+                                                                    <a href="*|FORWARD|*" target="_blank"><img src="https://gallery.mailchimp.com/6318a0e1cb4a68aa88926b08d/images/8048d779-d6f6-4d07-81c0-1a47b5d5409d.png" style="display:block;" height="42" width="131" alt="Delen via E-mail"></a>
+                                                                  </td>
+                                                                </tr>
+                                                              </tbody>
+                                                            </table>
+                                                          </td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td mc:hideable>
+                    <!-- tekstblok met aansporing tot delen  -->
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width:100%;">
+                      <tbody class="mcnTextBlockOuter">
+                        <tr>
+                          <td valign="top" class="mcnTextBlockInner" style="padding-top:0px;padding-bottom:0px;">
+                            <!--[if mso]>
+                            <table align="center" border="0" cellspacing="0" cellpadding="0" width="582" style="width:566px;">
+                              <tr>
+                                <![endif]-->
+                            <!--[if mso]>
+                            <td valign="top" width="582" style="width:582px;">
+                              <![endif]-->
+                            <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width:100%;min-width:100%;" width="100%" class="mcnTextContentContainer">
+                              <tbody>
+                                <tr>
+                                  <td align="center" valign="top" class="mcnTextContent" style="font-size:20px !important;padding-top:18px;padding-right:18px;padding-bottom:0px !important;padding-left:18px;text-align:center;" mc:edit="deelaansporing">
+
+                                    <span class="nederlands" style="font-size:18px!important;text-align:center;margin-bottom:0;font-family:Open Sans, Helvetica, Arial;color:#182575!important;">Volg ons op sociale media:</span>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <!--[if mso]>
+                          </td>
+                          <![endif]-->
+                            <!--[if mso]>
+                          </tr>
+                        </table>
+                        <![endif]-->
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <!-- einde van aansporing tot delen  -->
+                    <!--[if gte mso 9]>
+                  </td>
+                </tr>
+              </table>
+              <![endif]-->
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowBlock" style="min-width:100%;">
+                      <tbody class="mcnFollowBlockOuter">
+                        <tr>
+                          <td align="center" valign="top" style="padding:9px;" class="mcnFollowBlockInner">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowContentContainer" style="min-width:100%;">
+                              <tbody>
+                                <tr>
+                                  <td align="center" style="padding-left:9px;padding-right:9px;">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width:100%;" class="mcnFollowContent">
+                                      <tbody>
+                                        <tr>
+                                          <td align="center" valign="top" style="padding-top:9px;padding-right:9px;padding-left:9px;">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0">
+                                              <tbody>
+                                                <tr>
+                                                  <td align="center" valign="top">
+                                                    <!--[if mso]>
+                                                    <table align="center" border="0" cellspacing="0" cellpadding="0">
+                                                      <tr>
+                                                        <![endif]-->
+                                                    <!--[if mso]>
+                                                    <td align="center" valign="top">
+                                                      <![endif]-->
+                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnFollowStacked" style="display:inline;">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td align="center" valign="top" class="mcnFollowIconContent" style="padding-right:5px;padding-left:5px;padding-bottom:9px;">
+                                                            <a href="{{facebookpaginaurl}}" target="_blank"><img style="border-radius:3px;display:block;" src="https://gallery.mailchimp.com/6318a0e1cb4a68aa88926b08d/images/836fec6a-6804-48a5-ac2d-781498eaf380.png" alt="Facebook" class="mcnFollowBlockIcon" width="60"></a>
+                                                          </td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                    <!--[if mso]>
+                                                  </td>
+                                                  <![endif]-->
+                                                    <!--[if mso]>
+                                                    <td align="center" valign="top">
+                                                      <![endif]-->
+                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnFollowStacked" style="display:inline;">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td align="center" valign="top" class="mcnFollowIconContent" style="padding-right:5px;padding-left:5px;padding-bottom:9px;">
+                                                            <a href="{{twitterurl}}" target="_blank"><img src="https://gallery.mailchimp.com/6318a0e1cb4a68aa88926b08d/images/7bea47e1-f494-4e57-b04d-755058a13c63.png" alt="Twitter" class="mcnFollowBlockIcon" width="60" style="width:60px; max-width:60px; display:block;"></a>
+                                                          </td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                    <!--[if mso]>
+                                                  </td>
+                                                  <![endif]-->
+                                                    <!--[if mso]>
+                                                  </tr>
+                                                </table>
+                                                <![endif]-->
+                                                    <!--[if mso]>
+                                                  </td>
+                                                  <![endif]-->
+                                                    <!--[if mso]>
+                                                  </tr>
+                                                </table>
+                                                <![endif]-->
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <!-- // END BODY -->
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center" style="padding-bottom:0px;">
+                    <!-- BEGIN FOOTER // -->
+                    <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateFooter">
+                      <tr>
+                        <td class="footerContainer" style="padding-top:0px;padding-bottom:0px;">
+                          <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width:100%;">
+                            <tbody class="mcnTextBlockOuter">
+                              <tr>
+                                <td class="mcnTextBlockInner">
+                                  <!--[if mso]>
+                                  <table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+                                    <tr>
+                                      <![endif]-->
+                                  <!--[if mso]>
+                                  <td width="600" style="width:600px;">
+                                    <![endif]-->
+                                  <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width:100%;min-width:100%;" width="100%" class="mcnTextContentContainer">
+                                    <tbody>
+                                      <tr>
+                                        <td class="mcnTextContent browsertext" style="float:left;padding-top:24px;padding-right:18px;padding-bottom:24px;padding-left:18px;text-align:left;font-size:12px !important;">
+                                          <span class="nederlands achtergrondTekst">
+                                            *|IFNOT:ARCHIVE_PAGE|*
+                                            Je ontvangt deze e-mail op <a>*|EMAIL|*</a>.
+                                            <br><a href="*|UPDATE_PROFILE|*">Wijzig</a> je instellingen of  <a href="*|UNSUB|*">meld je af</a> voor nieuwsbrieven.
+                                            <br>Copyright © *|CURRENT_YEAR|* *|LIST:COMPANY|* .
+                                            <br>*|END:IF|*<br></span>
+                                           
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <!--[if mso]>
+                                    </td>
+                                    <![endif]-->
+                                      <!--[if mso]>
+                                    </tr>
+                                  </table>
+                                  <![endif]-->
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                        <!-- // END FOOTER -->
+                      </td>
+                    </tr>
+                  </table>
+                  <!-- // END TEMPLATE -->
+                </td>
+              </tr>
+            </table>
+          </center>
+        </body>
+</html>
